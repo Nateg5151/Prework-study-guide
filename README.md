@@ -2,11 +2,13 @@
 
 ## Description
 
-This Prework Study Guide was created for boot camp students who were going through the Prework. It contains notes on HTML, CSS, Git, and JavaScript.
+I'm a Bootcampspot student, this is my first project for this course. This will hopefully aid and help future students study and learn! It contains notes on HTML, CSS, Git, and JavaScript.
 
 ## Installation
 
-N/A
+VS Code
+Xcode (MacOs)
+TechEr (extension within VS Code)
 
 ## Usage
 
@@ -14,7 +16,7 @@ To use this Prework Study Guide, you can review the notes in each section. For s
 
 ## Credits
 
-N/A
+BootCampSpot
 
 ## License
 
